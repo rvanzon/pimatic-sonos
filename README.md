@@ -3,12 +3,12 @@
 pimatic-sonos
 ===========
 
-##Important
+## Important
 This plugin is still under development, please remain calm.. :sunglasses:
 
 pimatic plugin for controlling the [Sonos Music Player](http://www.sonos.com/).
 
-###device config example:
+### device config example:
 
 ```json
 {
@@ -20,7 +20,7 @@ pimatic plugin for controlling the [Sonos Music Player](http://www.sonos.com/).
 }
 ```
 
-###device rules examples:
+### device rules examples:
 
 <b>Play music</b><br>
 if smartphone is present then play sonos-player
